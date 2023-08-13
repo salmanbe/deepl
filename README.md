@@ -2,6 +2,10 @@ Deepl
 ====
 This easy to use library to import translations from Deepl Api.
 
+Video Tutorial
+-------
+[![Laravel Deepl](https://img.youtube.com/vi/ljoFvgCS2og/0.jpg)](https://www.youtube.com/watch?v=ljoFvgCS2og)
+
 Laravel Installation
 -------
 Install using composer:
