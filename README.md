@@ -42,7 +42,7 @@ $deepl = new Deepl();
 Set text, target and source language. source language is optional.
 ```php
 $deepl->get($text, $target_lang, $source_lang);
-$deepl->get('Welcome', 'en', 'fr');
+$deepl->get('Welcome', 'fr', 'en');
 ```
 
 Uninstall
