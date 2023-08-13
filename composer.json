@@ -1,0 +1,32 @@
+{
+    "name": "salmanbe/deepl",
+    "description": "Laravel library to import translations from Deepl Api",
+    "keywords": ["deepl", "translate", "translation"],
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Salmanbe\\Deepl\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Salman Javaid",
+            "email": "salman@salman.be"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Salmanbe\\Deepl\\DeeplServiceProvider"
+            ],
+            "aliases": {
+                "Deepl": "Salmanbe\\Deepl\\Deepl"
+            }
+        }
+    }
+}
