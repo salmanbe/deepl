@@ -6,8 +6,6 @@ Laravel Installation
 -------
 Install using composer:
 
-You may need to set "minimum-stability": "dev", in your main composer.json file.
-
 ```bash
 composer require salmanbe/deepl
 ```
@@ -51,7 +49,7 @@ Uninstall
 -----
 First remove `Salmanbe\Deepl\DeeplServiceProvider::class,` and 
 `'Deepl' => Salmanbe\Deepl\Deepl::class,` from `config/app.php` if it was added.
-Then Run `composer remove salmanbe/deeple` 
+Then Run `composer remove salmanbe/deepl` 
 
 ## License
 
