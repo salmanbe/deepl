@@ -1,6 +1,6 @@
-Deepl
+Laravel Deepl
 ====
-This easy to use library to import translations from Deepl Api. You must go to [www.deepl.com](https://www.deepl.com) to register and acquire an API key. Please note that this laravel library is not made on behalf of deepl. There is no coorporation between Deepl and this library. Deepl is not responsible for this library.
+This is an easy to use laravel library to import translations from Deepl Api. You must go to [www.deepl.com](https://www.deepl.com) to register and acquire an API key to use with this library. Please note that this laravel library is not made on behalf of deepl. There is no coorporation between Deepl and this library. Deepl is not responsible for this library. Deepl API credit goes to deepl.
 
 Video Tutorial
 -------
