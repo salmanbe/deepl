@@ -31,8 +31,8 @@ Add 2 lines to config/app.php
 
 Add 2 lines to .env
 ```php
-DEEPL_URL=https://api-free.deepl.com/v2/translate
-DEEPL_KEY=your_deepl_api_key
+DEEPL_URL=https://api-free.deepl.com/v2/translate  // Use https://api.deepl.com/v2/translate for pro version
+DEEPL_KEY=your_deepl_api_key                       // Register at www.deepl.com to acquire api key 
 ```
 
 Basic Usage
