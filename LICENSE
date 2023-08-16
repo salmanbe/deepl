@@ -22,6 +22,8 @@ Deepl
 
 You must go to www.deepl.com to register and acquire an API key to use with this library. 
 This laravel library is not made on behalf of deepl. 
-There is no coorporation between Deepl and this library. 
+There is no coorporation between deepl and this library. 
 Deepl is not responsible for this library. 
 Deepl API credit goes to deepl.
+
+Visit https://www.deepl.com/en/pro-license?tab=pro to learn more about deep's terms.
